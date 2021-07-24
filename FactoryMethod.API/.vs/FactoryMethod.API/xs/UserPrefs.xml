@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A59C16FF-5563-4B20-BF8C-353E478920BE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethod.API/BuilderPattern/Car.cs">
+    <Files>
+      <File FileName="FactoryMethod.API/BuilderPattern/Car.cs" Line="26" Column="1" />
+      <File FileName="FactoryMethod.API/BuilderPattern/CarBuilder.cs" Line="4" Column="28" />
+      <File FileName="FactoryMethod.API/BuilderPattern/ICarBuilder.cs" Line="11" Column="21" />
+      <File FileName="FactoryMethod.API/Controllers/AirConditionerController.cs" Line="46" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryMethod.API" expanded="True">
+            <Node name="FactoryMethod.API" expanded="True">
+              <Node name="BuilderPattern" expanded="True">
+                <Node name="Car.cs" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FactoryMethod.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
